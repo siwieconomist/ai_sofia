@@ -16,15 +16,8 @@ trained on the Breast Cancer dataset. It is designed as a mini research project 
 ├── notebooks/
 │   └── xai_comparison.ipynb
 ├── slides/
-│   └── slides_explainability_dark_gradient.pdf
-├── images/
-│   ├── shap_summary.png
-│   └── lime_explanation.png
-├── app/
-│   └── gradio_xai_app.py
-└── docs/
-    ├── PRESENTER_SCRIPT.md
-    └── YOUTUBE_NOTES.md
+│   └── xai.slides.pptx.pdf
+
 ```
 
 ## 🚀 Getting Started
@@ -41,11 +34,7 @@ pip install shap lime scikit-learn pandas matplotlib seaborn gradio
 jupyter notebook notebooks/xai_comparison.ipynb
 \`\`\`
 
-### 3. Launch the Gradio App
 
-\`\`\`bash
-python app/gradio_xai_app.py
-\`\`\`
 
 ## 📊 Methods Compared
 
@@ -59,14 +48,7 @@ python app/gradio_xai_app.py
 - Pros: strong theoretical grounding, global + local interpretability.
 - Cons: more computationally expensive.
 
-## 🎥 Demo Video
 
-A short pre-recorded demo walks through:
-
-1. Training the model  
-2. Viewing a LIME explanation for a test instance  
-3. Inspecting SHAP summary plot and local force plot  
-4. Using the Gradio app to explore SHAP feature contributions  
 
 👉 **YouTube link (insert here before submission).**
 
