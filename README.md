@@ -50,7 +50,7 @@ jupyter notebook notebooks/xai_comparison.ipynb
 
 
 
-👉 **YouTube link (insert here before submission).**
+👉 **YouTube link https://www.youtube.com/watch?v=pr3DKUJ-1Rs .**
 
 ## 📚 References
 
